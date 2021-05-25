@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Shape from '../src/components/shape';
-import Circle from './components/circle';
+import Shape from './shape';
+import Circle from './circle';
 
 class App extends React.Component {
     constructor(props) {
