@@ -1,7 +1,7 @@
 // export class using module.exports
 import React, { Component } from 'react';
 
-import Shape from './Shape'
+import Shape from './shape'
 class Circle extends Shape {
     constructor(props) {
       super(props);
