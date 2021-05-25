@@ -12,7 +12,7 @@ class Shape extends React.Component {
     return "Area";
   }
   render() {
-    return(
+    return (
       <div>
         Area:{this.calculateArea()} shape:{this.drawShape()}
       </div>
